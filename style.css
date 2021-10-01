@@ -1,0 +1,42 @@
+.card {
+    display: inline-block;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    box-sizing: border-box;
+    width: 300px;
+    margin: 1%;
+    vertical-align: top;
+    min-height: 300px;
+    text-align: center;
+    font-size: 9px;
+    font-family: arial;
+  }
+  
+
+  .description {
+    color: rgb(14, 5, 5);
+    font-size: 14px;
+}
+  
+  .price {
+    color: rgb(243, 14, 14);
+    font-size: 14px;
+  }
+  
+  .card button {
+    font-size: 18px;
+    border: none;
+    padding: 12px;
+    color: white;
+    background-color: rgb(91, 172, 26);
+    text-align: center;
+    width: 100%;
+    
+  }
+  
+  .card button:hover {
+    opacity: 0.8;
+  }
+
+  
+
+  
